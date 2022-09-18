@@ -234,7 +234,7 @@ Hence it must be closed if (c) holds.
 
 
 
-### 2.42 Weierstrass Theorem(魏尔斯特拉斯定理)
+### 2.43 Weierstrass Theorem(魏尔斯特拉斯定理)
 
 Every bounded infinite subset of $R^k$ has a limit point in $R^k$.
 
