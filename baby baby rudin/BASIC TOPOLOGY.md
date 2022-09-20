@@ -409,7 +409,7 @@ Assume $y \notin E$.For each $h>0$ there exists a point $x\in E$,such that $y-h<
 
 
 
-# 2-3 Compact Sets
+##  Compact Sets
 
 ### 2.31 Definition
 
@@ -655,7 +655,7 @@ Let the set be $S$.Since it is bounded,there is some k-cell $I_k$ s.t. $S\sub I_
 
 
 
-# 2-4 Perfect Sets and Connected Sets
+## Perfect Sets and Connected Sets
 
 ### 2.44 Definition
 
@@ -687,7 +687,7 @@ It contradicts the theorem "If {$K_n$} is a sequence of nonempty compact sets su
 
 
 
-#### 2.46 Cantor Set
+### 2.46 Cantor Set
 
 ***Note:***
 
